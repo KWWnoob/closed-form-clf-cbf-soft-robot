@@ -1,4 +1,4 @@
-# Closed-Form CLF-CBF Control for Whole-Body Continuum Soft Robot Collision Avoidance
+# Closed-Form CLF-CBF Controller for Whole-Body Continuum Soft Robot Collision Avoidance
 
 Official implementation of:
 
