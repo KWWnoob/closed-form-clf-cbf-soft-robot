@@ -1,0 +1,17 @@
+#
+.DS_Store
+
+# 
+.vscode/
+
+# 
+*.mp4
+*.png
+*.json
+*.ply
+
+# frames for animation
+frames/
+
+# pyc
+viz/__pycache__/
