@@ -191,10 +191,3 @@ If you find this repository useful, please consider citing:
 }
 ```
 
----
-
-## License
-
-This repository is released under the license specified in the `LICENSE` file.
-
-Please also refer to the original license of `cbfpy` under `third_party/cbfpy`.
